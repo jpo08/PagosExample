@@ -6,6 +6,7 @@ import Model.User;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("v2");
 
         try {
             User user = new User();
